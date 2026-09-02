@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Kevin Velazco 👋
 
-<!--
-**AvariAny/AvariAny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student interested in building software, artificial intelligence, web applications, APIs and automation systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Areas of Interest
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌐 Web Development
+* ⚙️ Backend & REST APIs
+* 🔌 Embedded Systems & IoT
+* 🤖 Robotics
+* 🔄 Automation
+
+### 🛠️ Technologies
+
+**Languages**
+
+`Python` `Java` `JavaScript` `C/C++`
+
+**AI & Data**
+
+`PyTorch` `Transformers` `Scikit-learn` `XGBoost`
+
+**Web & Backend**
+
+`HTML` `CSS` `JavaScript` `REST APIs`
+
+**Embedded**
+
+`Arduino` `ESP32`
+
+### 📌 Featured Projects
+
+Projects are currently being organized and developed.
+
+More projects coming soon 🚀
+
+### 🎯 Current Goal
+
+Building practical projects to develop professional experience in software development, AI, backend systems and automation.
+
+---
+
+📫 **Let's build something.**
