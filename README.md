@@ -1,23 +1,24 @@
 # Hi, I'm Kevin Velazco 👋
 
-### Computer Science Engineering Student
+### Computer Science Engineering Student | Aspiring Software Developer
 
-I'm a Computer Science Engineering student interested in building software, artificial intelligence, web applications, APIs and automation systems.
+I'm a Computer Science Engineering student exploring different areas of technology by building practical projects and learning through experimentation.
 
-### 🚀 Areas of Interest
+I'm particularly interested in **software development, artificial intelligence, backend systems, and automation**. I enjoy turning ideas into working solutions, exploring unfamiliar technologies, and understanding how things work under the hood.
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🌐 Web Development
-* ⚙️ Backend & REST APIs
-* 🔌 Embedded Systems & IoT
-* 🤖 Robotics
-* 🔄 Automation
+## 🚀 Areas of Interest
 
-### 🛠️ Technologies
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Web Development
+- ⚙️ Backend Development & REST APIs
+- 🔌 Embedded Systems & IoT
+- 🛠️ Software Engineering & Automation
 
-**Languages**
+## 🧰 Technologies & Tools
 
-`Python` `Java` `JavaScript` `C/C++`
+**Programming Languages**
+
+`Python` `JavaScript` `Java` `C/C++`
 
 **AI & Data**
 
@@ -27,20 +28,39 @@ I'm a Computer Science Engineering student interested in building software, arti
 
 `HTML` `CSS` `JavaScript` `REST APIs`
 
-**Embedded**
+**Embedded Systems**
 
 `Arduino` `ESP32`
 
-### 📌 Featured Projects
+**Tools**
 
-Projects are currently being organized and developed.
+`Git` `GitHub` `Linux`
 
-More projects coming soon 🚀
+## 📌 Featured Projects
 
-### 🎯 Current Goal
+### 🧠 [Emotion Risk Engine V2](https://github.com/AvariAny/emotion-risk-engine)
 
-Building practical projects to develop professional experience in software development, AI, backend systems and automation.
+An experimental NLP project that analyzes text and classifies emotional risk into different categories using a model based on BETO, with a FastAPI backend for predictions.
+
+*This project is experimental and is not intended to provide medical diagnoses.*
+
+### 💻 [AVARI’S//LAB](https://github.com/AvariAny/avaris-lab)
+
+My personal project platform, showcasing software experiments, web development, and ideas as they evolve into working projects.
+
+🌐 [Visit the website](https://avaris-lab.vercel.app/)
+
+## 🎯 What I'm Working Toward
+
+- Building practical projects to strengthen my software engineering skills.
+- Exploring how AI can solve real-world problems.
+- Learning new technologies through hands-on experimentation.
+- Turning ideas into useful tools and applications.
+
+## 🌱 Always Learning, Always Building
+
+I'm still exploring the many branches of computer science, and that's part of the journey. Every project is an opportunity to learn something new, solve a problem, and improve as a developer.
 
 ---
 
-📫 **Let's build something.**
+💡 *Curious mind. Practical projects. Continuous learning.*
